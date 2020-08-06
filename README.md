@@ -130,4 +130,4 @@ validation_dataset = image_generator.flow_from_directory(batch_size=32,
 Now our data is ready to use.
 
 Step 5. 
-https://gist.github.com/rajneeshmehta
+<script src="https://gist.github.com/rajneeshmehta/bd30170e7fca42cb82f2e562e209bb7a.js"></script>
